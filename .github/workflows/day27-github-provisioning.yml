@@ -14,7 +14,7 @@ on:
       - main
       - test
       - dev
-     paths: 
+    paths: 
       - 'lessons/day27/code/**'
 
 env:
